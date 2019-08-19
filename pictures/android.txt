@@ -1,3 +1,0 @@
-title=Pictures
-author=gfechio
-orientation=landscape
